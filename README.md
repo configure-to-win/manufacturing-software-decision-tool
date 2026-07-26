@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21601701.svg)](https://doi.org/10.5281/zenodo.21601701)
 # Manufacturing Software Decision Tool — Excel Requirements Matrix
 
 Assess whether a manufacturing quote process needs cost estimating, product configuration, commercial quote control or a connected combination of systems.
@@ -534,6 +535,12 @@ The user remains responsible for:
 This repository is licensed under the terms described in [LICENSE.md](LICENSE.md).
 
 When reusing or adapting the workbook or documentation, follow the attribution and modification requirements stated in that file.
+
+## Citation
+
+Please cite the archived release using its Zenodo DOI:
+
+https://doi.org/10.5281/zenodo.21601701
 
 ## About Configure to WIN
 
